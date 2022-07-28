@@ -1,0 +1,65 @@
+.carousel-inner img {
+    max-height: 700px;
+}
+
+.site-footer {
+    height: 150px;
+}
+
+.iconos a {
+    text-decoration: none;
+    color: rgb(60, 183, 199);
+    margin: 10px;
+    font-size: 25px;
+}
+
+.iconos a i:hover {
+    color: rgb(132, 136, 136);
+    transform: scale(1.1);
+    transition: ease-in-out .1s;
+}
+.nav-item { 
+    
+    align-items: center;
+}
+.nav-link  { 
+    color:rgb(60, 183, 199);
+    font-weight: bold
+    
+  
+}
+.carritocompras {
+    text-decoration: none;
+    color:rgb(60, 183, 199);
+}
+.rojo { 
+    color:rgb(252, 4, 4);
+    font-weight: bold
+  
+}
+
+
+
+/**
+.carousel-inner img {
+    max-height: 700px;
+}
+
+.site-footer {
+    height: 150px;
+}
+
+.iconos a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.iconos a i:hover {
+    color: aqua;
+    transform: scale(1.2);
+    transition: ease-in-out .1s;
+}
+
+}**/
