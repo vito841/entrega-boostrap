@@ -1,3 +1,4 @@
+body {color: rgb(60, 183, 199);}
 .carousel-inner img {
     max-height: 700px;
 }
@@ -31,7 +32,10 @@
 .carritocompras {
     text-decoration: none;
     color:rgb(60, 183, 199);
+    list-style-type: none;
 }
+
+
 .rojo { 
     color:rgb(252, 4, 4);
     font-weight: bold
