@@ -1,0 +1,42 @@
+*en el archivo "index" sume el SEO con las siguientes caracteristicas
+
+Palabras claves:HTML, FERIA, FERIA AMERICANA, USAR REUSAR, 
+COMPRAR, VENDER, ROPA USADA.
+
+Descripción:"Usar y Reusar. Compra y venta de ropa. Sumate a la comunidad de moda más grande de Argentina!
+
+título: Feria americana / inicio
+
+
+*en el archivo "contacto" sume el SEO con las siguientes caracteristicas
+
+Palabras claves:"CONTACTO, CONOCENOS, FORMULARIO, REDES SOCIALES"
+
+Descripción:"Contacto · Navegación · Contactanos· Sé el primero en enterarte de las novedades"
+
+título: Feria americana / contacto
+
+
+*en el archivo "local" sume el SEO con las siguientes caracteristicas
+
+Palabras claves:HTML, FERIA AMERICANA, DIRECCION, HORARIOS, MAPA"
+
+Descripción:"Abrimos de Martes a Sábados de 9 a 13 hs y de 16 a 20 hs. Para vender tu ropa, leé los pasos haciendo click aquí "
+
+título: Feria americana / local
+
+
+*en el archivo "nosotras" sume el SEO con las siguientes caracteristicas
+
+Palabras claves:HTML, FERIA AMERICANA, VICTORIA AMARILLO, DANIELA AMARILLO, NOSOTRAS"
+
+Descripción:"Contamos con más de 4000 prendas de todos los estilos, formales e informales, deportivas, de fiesta, por temporada, accesorios y más! 
+
+
+*en el archivo "tienda" sume el SEO con las siguientes caracteristicas
+
+Palabras claves:"HTML, FERIA, FERIA AMERICANA, USAR REUSAR, COMPRAR, VENDER, ROPA USADA"
+
+Descripción:"Comprá productos de USAR Y REUSAR por internet. Tenemos lo que buscas en TIENDA ONLINE. Hacé tu pedido, pagalo online y recibilo donde quieras." 
+
+titulo: Feria americana /tienda
