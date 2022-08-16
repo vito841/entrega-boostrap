@@ -1,0 +1,19 @@
+{
+  "name": "001-entrega3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vito841/entrega-boostrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vito841/entrega-boostrap/issues"
+  },
+  "homepage": "https://github.com/vito841/entrega-boostrap#readme"
+}
